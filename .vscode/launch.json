@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MaxMin",
+      "request": "launch",
+      "mainClass": "MaxMin",
+      "projectName": "DSA_88d63990"
+    },
+    {
+      "type": "java",
       "name": "swap",
       "request": "launch",
       "mainClass": "swap",
