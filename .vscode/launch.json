@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "swap",
+      "request": "launch",
+      "mainClass": "swap",
+      "projectName": "DSA_88d63990"
+    },
+    {
+      "type": "java",
       "name": "Greedy",
       "request": "launch",
       "mainClass": "Greedy",
