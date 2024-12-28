@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "strip",
+      "request": "launch",
+      "mainClass": "strip",
+      "projectName": "DSA_88d63990"
+    },
+    {
+      "type": "java",
+      "name": "Sb",
+      "request": "launch",
+      "mainClass": "Sb",
+      "projectName": "DSA_88d63990"
+    },
+    {
+      "type": "java",
+      "name": "operator",
+      "request": "launch",
+      "mainClass": "operator",
+      "projectName": "DSA_88d63990"
+    },
+    {
+      "type": "java",
       "name": "MaxMin",
       "request": "launch",
       "mainClass": "MaxMin",
