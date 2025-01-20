@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "date",
+      "request": "launch",
+      "mainClass": "date",
+      "projectName": "DSA_88d63990"
+    },
+    {
+      "type": "java",
       "name": "strip",
       "request": "launch",
       "mainClass": "strip",
